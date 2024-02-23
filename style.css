@@ -32,7 +32,7 @@ body
 .container .left_Side
 {
     position: relative;
-    background: #005A9C;
+    background: #ffff;
     padding: 40px;
     border-radius: 25px 25px 25px 25px;
 }
@@ -72,7 +72,7 @@ body
 }
 .profileText h2
 {
-    color: #ffff;
+    color: #005A9C;
     font-size: 1.5em;
     margin-top: 20px;
     text-transform: none;
@@ -90,10 +90,11 @@ body
 .contactInfo
 {
     padding-top: 40px;
+    text-align: center;
 }
 .left_title
 {
-    color: #fff;
+    color: #005A9C;
     text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 1px;
@@ -115,11 +116,11 @@ body
     display: inline-block;
     width: 30px;
     font-size: 18px;
-    color: #EEC759;
+    color: #005A9C;
 }
 .contactInfo ul li span
 {
-    color: #ffff;
+    color: #005A9C;
     font-weight: 300;
 }
 .contactInfo.education li
@@ -128,17 +129,17 @@ body
 }
 .contactInfo.education h5
 {
-    color: #EEC759;
+    color: #333;
     font-weight: 500;
 }
 .contactInfo.education h4:nth-child(2)
 {
-    color: #ffff;
+    color: #005A9C;
     font-weight: 500;
 }
 .contactInfo.education h4
 {
-    color: #ffff;
+    color: #005A9C;
     font-weight: 300;
 }
 
@@ -187,7 +188,6 @@ p
     font-size: 16px;
 }
 
-
 .skills ul
 {
     display: grid;
@@ -234,7 +234,7 @@ p
 }
 
 a:link {
-  color: #ffff;
+  color: #005A9C;
   background-color: transparent;
   text-decoration: none;
 }
