@@ -9,20 +9,21 @@
   - [Description](#description)
   - [How To Use](#how-to-use)
   - [Technologies](#technologies)
-  - [Features Included](#features-included)
   - [Collaborators](#collaborators)
 
 ---
 
 ## Description
-- 
-- 
+- My responsive static website showcasing my resume and portfolio
+- Built for broswer and mobile
+- Deployed over AWS
+- Read more about my project on my [blog](https://wnbui.dev/)
 
 ---
 
 ## How To Use
 
-- Access the website at 
+- Access the website [here]
 
 ---
 
@@ -33,11 +34,6 @@
 - AWS S3
 - AWS CloudFront
 - AWS Route53
-
----
-
-## Features Included
-- 
 
 ---
 
