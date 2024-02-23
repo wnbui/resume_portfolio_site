@@ -9,7 +9,7 @@
 
 body
 {
-    background: #A5ACAF;
+    background: #005A9C;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -188,6 +188,43 @@ p
     font-size: 16px;
 }
 
+.projects
+{
+    margin-bottom: 50px;
+}
+.projects:last-child
+{
+    margin-bottom: 0;
+}
+.projects .box
+{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0;
+}
+.projects .box:hover
+{
+    transform: scale(1.1);
+}
+.projects .box .year_company
+{
+    min-width: 150px;
+
+}
+.projects .box .year_company h5
+{
+    text-transform: none;
+    color: #333;
+    font-weight: 600;
+}
+.projects .box .text h4
+{
+    text-transform: none;
+    color: #005A9C;
+    font-weight: 600;
+    font-size: 16px;
+}
+
 .skills ul
 {
     display: grid;
@@ -231,6 +268,12 @@ p
     color: #005A9C;
     font-size: 14px;
     width: 20px;
+}
+
+.footer
+{
+    text-align: center;
+    margin-bottom: 30px;
 }
 
 a:link {
