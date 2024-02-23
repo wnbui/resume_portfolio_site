@@ -27,18 +27,21 @@ body
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0,0,0,0.1);
+    border-radius: 25px;
 }
 .container .left_Side
 {
     position: relative;
     background: #005A9C;
     padding: 40px;
+    border-radius: 25px 25px 25px 25px;
 }
 .container .right_Side
 {
     position: relative;
     background: #fff;
     padding: 40px;
+    border-radius: 25px 25px 25px 25px;
 }
 
 .profileText
@@ -183,6 +186,7 @@ p
     font-weight: 600;
     font-size: 16px;
 }
+
 
 .skills ul
 {
