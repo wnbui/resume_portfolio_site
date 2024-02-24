@@ -1,7 +1,7 @@
 # resume_portfolio_site
 
-Will Bui
-CWID: 821704699
+Will Bui <br>
+CWID: 821704699 <br>
 Email: <wnbui@csu.fullerton.edu>
 
 ---
