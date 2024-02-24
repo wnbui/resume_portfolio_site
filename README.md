@@ -42,11 +42,10 @@ Email: <wnbui@csu.fullerton.edu>
 
 ## Resources / Documentation
 
-- [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
-- [AWS Route53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)
 - [HTML and CSS reference](https://www.w3schools.com/)
 - [Font Awesome](https://fontawesome.com/)
-
+- [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- [AWS Route53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)
 
 ---
 
