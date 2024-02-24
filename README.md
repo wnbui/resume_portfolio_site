@@ -17,7 +17,7 @@
 - My responsive static website showcasing my resume and portfolio
 - Built for broswer and mobile
 - Deployed over AWS
-- Read more about my project on my [blog](https://wnbui.dev/)
+- Read more about my project on my [blog](https://wnbui.dev/posts/static_site/)
 
 ---
 
@@ -32,7 +32,6 @@
 - HMTL
 - CSS
 - AWS S3
-- AWS CloudFront
 - AWS Route53
 
 ---
