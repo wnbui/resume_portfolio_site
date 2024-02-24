@@ -2,6 +2,7 @@
 
 Will Bui
 CWID: 821704699
+Email: <wnbui@csu.fullerton.edu>
 
 ---
 
@@ -12,7 +13,7 @@ CWID: 821704699
   - [Description](#description)
   - [How To Use](#how-to-use)
   - [Technologies](#technologies)
-  - [Resources](#resources)
+  - [Resources / Documentation](#resources--documentation)
   - [Architecture](#architecture)
   - [Collaborators](#collaborators)
 
@@ -39,7 +40,7 @@ CWID: 821704699
 - AWS S3
 - AWS Route 53
 
-## Resources
+## Resources / Documentation
 
 - [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
 - [AWS Route53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)
