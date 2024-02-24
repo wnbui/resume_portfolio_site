@@ -1,5 +1,8 @@
 # resume_portfolio_site
 
+Will Bui
+CWID: 821704699
+
 ---
 
 ## Table of Contents
@@ -9,6 +12,7 @@
   - [Description](#description)
   - [How To Use](#how-to-use)
   - [Technologies](#technologies)
+  - [Resources](#resources)
   - [Architecture](#architecture)
   - [Collaborators](#collaborators)
 
@@ -33,7 +37,15 @@
 - HMTL
 - CSS
 - AWS S3
-- AWS Route53
+- AWS Route 53
+
+## Resources
+
+- [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
+- [AWS Route53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)
+- [HTML and CSS reference](https://www.w3schools.com/)
+- [Font Awesome](https://fontawesome.com/)
+
 
 ---
 
