@@ -9,6 +9,7 @@
   - [Description](#description)
   - [How To Use](#how-to-use)
   - [Technologies](#technologies)
+  - [Architecture](#architecture)
   - [Collaborators](#collaborators)
 
 ---
@@ -33,6 +34,12 @@
 - CSS
 - AWS S3
 - AWS Route53
+
+---
+
+## Architecture
+
+![My architecture](images/architecture_portfolio.png "My architecture")
 
 ---
 
